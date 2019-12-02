@@ -228,3 +228,9 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/osx,java,eclipse,intellij,maven
+/codeStyles/codeStyleConfig.xml
+/compiler.xml
+/dbnavigator.xml
+/misc.xml
+/codeStyles/Project.xml
+/vcs.xml
